@@ -11,6 +11,7 @@ import Contact from '../components/Contact/Contact';
 // import Footer from './components/Footer/Footer';
 import Footer from '../components/Footer/Footer';
 import {Blob1, Blob2} from './assets/Blobs';
+import '../../public/fontawesome/css/all.min.css';
 
 function App() {
 
